@@ -70,12 +70,12 @@ triCではICPCという大会に毎年参加しており、結成間もないサ
 
 
 ## 📕Introduce Member📕
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/igeee?show_icons=true&width=400)
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/kya?show_icons=true&width=400)
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/nattonato?show_icons=true&width=400)
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Harui?show_icons=true&width=400)
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/cijb_7724?show_icons=true&width=400)
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Ayutaso?show_icons=true&width=400)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/igeee?show_icons=true&width=350)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/kya?show_icons=true&width=350)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/nattonato?show_icons=true&width=350)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Harui?show_icons=true&width=350)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/cijb_7724?show_icons=true&width=350)
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Ayutaso?show_icons=true&width=350)
 
 
 ## 📣Join Us📣
