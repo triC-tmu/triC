@@ -70,7 +70,13 @@ triCではICPCという大会に毎年参加しており、結成間もないサ
 
 
 ## 📕Introduce Member📕
-メンバー紹介(個人の活動紹介とか？Twitter張るとか?)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/igeee?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/kya?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/nattonato?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Harui?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/cijb_7724?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Ayutaso?show_icons=true&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
 
 ## 📣Join Us📣
 triCに入りたい！と思った方はぜひその旨
