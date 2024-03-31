@@ -12,7 +12,7 @@ triCのについての概要は[triC紹介ページ](https://tric-tmu.github.io/
 都合が合わない場合には、調整も可能ですので[triC公式X](https://twitter.com/triC_PR)まで直接連絡いただければと思います。
 
 ## 開催場所
-- オンライン：Google Meet（Meetリンクは事前にXまたはメールで送信します）
+- オンライン：Google Meet（Meetリンクは事前にメールで送信します）
 - ハイブリット：Google Meet または [南大沢キャンパス図書館1階プレゼンテーションルーム](https://www.lib.tmu.ac.jp/minami-osawa/guide.html)
 
 ## 内容
